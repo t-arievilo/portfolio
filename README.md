@@ -17,7 +17,7 @@ Bem-vindo ao meu portfólio! Este é o site pessoal onde você pode conhecer um 
 
 Para ver o meu portfólio, basta acessar o link abaixo:
 
-[**Meu Portfólio**](https://chieri99.github.io/portfolio)
+[**Meu Portfólio**](https://t-arievilo.github.io/portfolio/)
 
 ## Como rodar localmente
 
