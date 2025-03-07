@@ -25,4 +25,4 @@ Caso queira rodar o projeto localmente em sua máquina, siga os seguintes passos
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/chieri99/portfolio.git
+   git clone https://github.com/t-arievilo/portfolio.git
